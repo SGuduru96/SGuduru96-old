@@ -1,37 +1,48 @@
-body {
-    background-color: #002B36;
-    color: #839496;
+#content {
+    margin: 0 auto;
+    width: 800px;
+    padding: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
-#self {
+
+#innerCode {
+    padding-left: 50px;
+}
+#pic {
     margin: 0 auto;
     width: 250px;
-    padding-top: 50px;
-    padding-bottom: 40px;
+}
+
+body {
+    background-color: #263238;
+    color: #CDD3DE;
+}
+
+.category {
+    color: #FAD430
+}
+
+.interest {
+    color: #80CAC3;
 }
 
 #var {
-    color: #859900;
-}
-.paren  {
-    color: #268BD2;
-}
-#intro {
-    margin: 0 auto;
-    width: 565px;
+    color: #C792EA;
 }
 
-#code {
-    text-indent: 50px;
+.comma {
+    color: #DC322F;
 }
 
-#explorer {
-    color: #2ecc71;
+#brackets {
+    color: #7BC2BC;
 }
 
-#student {
+#firstname {
     color: #3498db;
 }
 
-#ninja {
+#lastname {
     color: #e74c3c;
 }

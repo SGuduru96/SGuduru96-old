@@ -3,10 +3,16 @@ body {
     color: #839496;
 }
 #self {
-    margin: 0 auto;
-    width: 250px;
-    padding-top: 50px;
-    padding-bottom: 40px;
+    text-align: centaer;
+}
+
+#about {
+    text-indent: 0px;
+}
+
+#comma {
+    padding-left: 50px;
+    vertical-align: bottom;
 }
 
 #var {
@@ -16,12 +22,18 @@ body {
     color: #268BD2;
 }
 #intro {
-    margin: 0 auto;
-    width: 565px;
+    padding-left: 30px;
 }
 
 #code {
-    text-indent: 50px;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+#content {
+    width: 50%;
+    margin: auto;
 }
 
 #explorer {

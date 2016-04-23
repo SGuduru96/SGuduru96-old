@@ -1,0 +1,37 @@
+body {
+    background-color: #002B36;
+    color: #839496;
+}
+#self {
+    margin: 0 auto;
+    width: 250px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+#var {
+    color: #859900;
+}
+.paren  {
+    color: #268BD2;
+}
+#intro {
+    margin: 0 auto;
+    width: 565px;
+}
+
+#code {
+    text-indent: 50px;
+}
+
+#explorer {
+    color: #2ecc71;
+}
+
+#student {
+    color: #3498db;
+}
+
+#ninja {
+    color: #e74c3c;
+}

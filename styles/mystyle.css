@@ -1,9 +1,9 @@
 #content {
     margin: 0 auto;
     width: 800px;
-    padding: 10px;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding: 45px;
+    padding-top: 45px;
+    padding-bottom: 45px;
 }
 
 #innerCode {
@@ -12,11 +12,28 @@
 #pic {
     margin: 0 auto;
     width: 250px;
+    padding-bottom: 30px;
 }
 
 body {
     background-color: #263238;
     color: #CDD3DE;
+}
+
+#toolbar {
+    background-color: #1F292E;
+
+}
+
+#file {
+    border-bottom-style: solid;
+    border-bottom-color: #009688;
+    padding: 20px;
+    width: 142px;
+}
+
+#filename {
+    padding-left: 10px;
 }
 
 .category {
@@ -45,4 +62,24 @@ body {
 
 #lastname {
     color: #e74c3c;
+}
+
+#project {
+    color: #C792EA;
+}
+
+.array {
+    color: #CDD3DE;
+}
+
+#email {
+    color: #FFBD07;
+}
+
+#twitter {
+    color: #1DA1F2;
+}
+
+#linkedin {
+    color: #0077B5;
 }
